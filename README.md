@@ -1,0 +1,2 @@
+# SuperBurgerPrivacyAndPolicy
+Privacy And Policy
