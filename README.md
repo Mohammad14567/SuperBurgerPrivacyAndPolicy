@@ -1,5 +1,3 @@
-# SuperBurgerPrivacyAndPolicy
-Privacy And Policy
 Privacy Policy – Super Burger
 
 Effective Date: May 29, 2026
@@ -33,7 +31,6 @@ If you allow location access, we may collect your location to:
 Show nearby branches
 Improve delivery accuracy
 Provide location-based services
-
 2. How We Use Your Information
 
 We use your information to:
@@ -72,11 +69,7 @@ Improve user experience
 
 You can disable cookies through your browser settings.
 
-7. Children’s Privacy
-
-Super Burger services are not intended for children under 13 years old. We do not knowingly collect personal information from children.
-
-8. Your Rights
+7. Your Rights
 
 Depending on your location, you may have the right to:
 
@@ -87,7 +80,7 @@ Withdraw consent for certain processing activities
 
 To make a request, contact us using the information below.
 
-9. Third-Party Services
+8. Third-Party Services
 
 Our app may use third-party services such as:
 
@@ -98,6 +91,6 @@ Push notification providers
 
 These services may collect information according to their own privacy policies.
 
-10. Changes to This Policy
+9. Changes to This Policy
 
 We may update this Privacy Policy from time to time. Updated versions will be posted within the app or website with a revised effective date.
